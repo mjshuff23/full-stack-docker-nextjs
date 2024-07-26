@@ -1,1 +1,0 @@
-# full-stack-docker-nextjs
